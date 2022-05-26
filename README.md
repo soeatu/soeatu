@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @soeatu
 - 👀 I’m interested in machine learning and data sience. And then ... Native application.
 - 🌱 I’m currently learning contents above.
+- I have also done embedded in the past.
 
 # 拙い英語力だとこれが限界です。
 
